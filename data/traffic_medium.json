@@ -1,0 +1,44 @@
+[
+  {
+    "medium": "organic",
+    "users": "101742",
+    "cart_users": "4490",
+    "purchasers": "1557",
+    "revenue_usd": "123773.0"
+  },
+  {
+    "medium": "(none)",
+    "users": "64109",
+    "cart_users": "3096",
+    "purchasers": "1011",
+    "revenue_usd": "83743.0"
+  },
+  {
+    "medium": "<Other>",
+    "users": "47101",
+    "cart_users": "2121",
+    "purchasers": "680",
+    "revenue_usd": "52248.0"
+  },
+  {
+    "medium": "referral",
+    "users": "40020",
+    "cart_users": "1933",
+    "purchasers": "744",
+    "revenue_usd": "62070.0"
+  },
+  {
+    "medium": "cpc",
+    "users": "14282",
+    "cart_users": "597",
+    "purchasers": "218",
+    "revenue_usd": "18321.0"
+  },
+  {
+    "medium": "(data deleted)",
+    "users": "2900",
+    "cart_users": "308",
+    "purchasers": "209",
+    "revenue_usd": "22010.0"
+  }
+]

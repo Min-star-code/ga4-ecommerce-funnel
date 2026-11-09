@@ -1,0 +1,4 @@
+month,users,sessions,purchase_events,transactions,revenue_usd,revenue_per_session_usd,avg_order_value_usd
+202011,79421,108401,2054,1259,144260.0,1.33,114.58
+202012,104315,133368,2434,2311,160555.0,1.2,69.47
+202101,94790,118380,1204,895,57350.0,0.48,64.08

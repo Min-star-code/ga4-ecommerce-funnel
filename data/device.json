@@ -1,0 +1,26 @@
+[
+  {
+    "device": "desktop",
+    "users": "158917",
+    "cart_users": "7384",
+    "checkout_users": "5665",
+    "purchasers": "2541",
+    "revenue_usd": "208815.0"
+  },
+  {
+    "device": "mobile",
+    "users": "109195",
+    "cart_users": "5142",
+    "checkout_users": "3968",
+    "purchasers": "1851",
+    "revenue_usd": "146768.0"
+  },
+  {
+    "device": "tablet",
+    "users": "6250",
+    "cart_users": "276",
+    "checkout_users": "219",
+    "purchasers": "97",
+    "revenue_usd": "6582.0"
+  }
+]

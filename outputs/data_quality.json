@@ -1,0 +1,9 @@
+{
+  "purchase_events": 5692,
+  "purchase_events_without_transaction_id": 906,
+  "share_without_transaction_id_pct": 15.9,
+  "repeated_purchase_events_with_same_id": 335,
+  "purchase_events_with_zero_revenue": 450,
+  "users_with_hidden_medium": 50001,
+  "share_users_hidden_medium_pct": 18.5
+}

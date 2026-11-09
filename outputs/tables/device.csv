@@ -1,0 +1,4 @@
+device,users,cart_users,checkout_users,purchasers,revenue_usd,cart_rate_pct,purchase_rate_pct,cart_to_purchase_pct,revenue_per_user_usd
+desktop,158917,7384,5665,2541,208815.0,4.65,1.6,34.4,1.31
+mobile,109195,5142,3968,1851,146768.0,4.71,1.7,36.0,1.34
+tablet,6250,276,219,97,6582.0,4.42,1.55,35.1,1.05

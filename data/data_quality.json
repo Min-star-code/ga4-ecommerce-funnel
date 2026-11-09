@@ -1,0 +1,11 @@
+[
+  {
+    "purchase_events": "5692",
+    "purchase_no_txn_id": "906",
+    "distinct_txn_ids": "4451",
+    "purchase_zero_revenue": "450",
+    "users": "270154",
+    "users_obfuscated_medium": "65309",
+    "users_direct": "75951"
+  }
+]

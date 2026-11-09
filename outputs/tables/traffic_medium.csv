@@ -1,0 +1,7 @@
+medium,users,cart_users,purchasers,revenue_usd,cart_rate_pct,purchase_rate_pct,cart_to_purchase_pct,revenue_per_user_usd
+organic,101742,4490,1557,123773.0,4.41,1.53,34.7,1.22
+(none),64109,3096,1011,83743.0,4.83,1.58,32.7,1.31
+<Other>,47101,2121,680,52248.0,4.5,1.44,32.1,1.11
+referral,40020,1933,744,62070.0,4.83,1.86,38.5,1.55
+cpc,14282,597,218,18321.0,4.18,1.53,36.5,1.28
+(data deleted),2900,308,209,22010.0,10.62,7.21,67.9,7.59
